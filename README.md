@@ -1,2 +1,2 @@
 # algs
-Samples of base algorithms and data structures
+Project contains the samples of base algorithms and data structures
